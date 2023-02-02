@@ -4,23 +4,32 @@ cd .
 python3 hello.py 
 ```
 
-#cd my charts python
+# charts projetct
 
 ```sh
+git clone
 cd charts
+source env/bin/activate
+pip3 install -r requirements.txt
 python3 charts.py
 ```
 
-#cd my game python
+# game project
 
 ```sh
+git clone
 cd game
+source env/bin/activate
+pip3 install -r requirements.txt
 python3 main.py
 ```
 
-#cd my app python
+# app project
 ```sh
+git clone
 cd  app
+source env/bin/activate
+pip3 install -r requirements.txt
 python3 main.py
 ```
 
