@@ -1,13 +1,13 @@
 # Hello word python
+
+
 ```sh
 cd .
 python3 hello.py 
 ```
 
-
 # charts projetct
 
-# cd my charts python
 
 ```sh
 git clone
@@ -19,8 +19,6 @@ python3 charts.py
 
 # game project
 
-# cd my game python
->>>>>>> b57b55dcf92bedf75fde39678dca32ec7033318a
 
 ```sh
 git clone
@@ -33,7 +31,6 @@ python3 main.py
 
 # app project
 
-# cd my app python
 
 ```sh
 git clone
