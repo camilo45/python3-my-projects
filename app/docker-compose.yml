@@ -1,6 +1,6 @@
 services:
-  app-csv:
-    build:
-      context: .
-      dockerfile: Dockerfile
+ app-csv:
+  build:
+     context: .
+     dockerfile: Dockerfile
     
